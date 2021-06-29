@@ -1,0 +1,28 @@
+html,body {
+    height: 100%;
+}
+
+html{
+    display: table;
+    margin: auto;
+}
+
+body{
+    background-color: #79EBE3;
+    font-style: italic;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell;
+    display: table-cell;
+    align-content: center;
+    vertical-align: middle;
+    color: #0C0033;
+}
+
+input{
+    color: #0C0033;
+    font-size: medium;
+    border: 0 none;
+    outline: none;
+    background-color: #79EBE3;
+    align-content: center;
+    vertical-align: middle;
+}
